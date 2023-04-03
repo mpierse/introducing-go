@@ -26,6 +26,6 @@ func computeExercise() int {
 1. Integers are stored as binary in a computer
 2. The largest 8 digit binary number is 1111 1111; or 2^8 - 1; or 255
 3. See func computeExercise() above
-4. A string is a sequence of charaters with a definite length used to represent text. The length of a string is found with the func len(s string)
+4. A string is a sequence of characters with a definite length used to represent text. The length of a string is found with the func len(s string)
 5. The expression `(true && false) || (false && true) || !(false && false)` always evaluates to true
 */

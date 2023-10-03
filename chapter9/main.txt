@@ -1,0 +1,7 @@
+See chapter8/math/math_test.go for test examples
+
+/* Exercise Answers
+1. When you pass in an empty list, the test will fail because 0 divided by 0 returns NaN (not a number).
+We could add a check to see if the list is empty and return 0 if it is.
+2. See chapter8/math/math_test.go for Min and Max function tests.
+*/
